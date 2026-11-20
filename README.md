@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0575E6,100:00F2FE&height=220&section=header&text=AMBIDI%20NAVEEN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER&descAlignY=60&descSize=16" width="100%"/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=180&section=header&text=AMBIDI%20NAVEEN&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+
 
 # 👋 Hello, I'm Naveen!
 
