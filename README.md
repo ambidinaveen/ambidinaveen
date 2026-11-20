@@ -1,113 +1,97 @@
-👋 Hi, I'm Ambidi Naveen
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=200&section=header&text=AMBIDI%20NAVEEN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER&descAlignY=60&descSize=15" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Building+Ideas+Into+Reality" />""GitHub" (https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)" (https://github.com/ambidinaveen)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/naveen-ambidi-8199173a0)
+""Email" (https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)" (mailto:naveenambidi@gmail.com)
 
-💻 Full Stack Developer | Python Developer | B.Tech IT Student
+</div>---
 
-I am an aspiring Full Stack Developer passionate about building scalable web applications, exploring Machine Learning, and solving real-world problems.
+👨‍💻 ABOUT ME
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)" (https://www.linkedin.com/in/naveen-ambidi-8199173a0)
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-black?logo=github)" (https://github.com/YOUR-GITHUB-USERNAME)
-""Email" (https://img.shields.io/badge/Email-Contact-red?logo=gmail)" (mailto:naveenambidi@gmail.com)
-
----
-
-🚀 About Me
-
-- 🎓 B.Tech Information Technology (2023–2027)
-- 💻 Interested in Full Stack Development
-- 🐍 Skilled in Python, Django, Flask and JavaScript
-- 🤖 Exploring Machine Learning and NLP
-- 📊 Interested in Data Analytics
-- 🌱 Always learning and improving my technical skills
+- 🎓 B.Tech Information Technology Student (2023–2027)
+- 💻 Passionate about Full Stack Development
+- 🐍 Python, Django and Flask Developer
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📊 Exploring Data Analytics
+- 🚀 Building real-world applications
 
 ---
 
-🛠️ Tech Stack
+⚡ TECH STACK
 
-Programming Languages
+<div align="center">Programming Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js" />Frontend Development
 
-Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" />Backend Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />Database & Tools
 
-Backend & Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode" /></div>---
 
-"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+🚀 FEATURED PROJECTS
 
-Machine Learning & Tools
+🛒 01. E-Commerce Web Application
 
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Developed a full-stack shopping application.
+- Implemented product listing and search.
+- Created shopping cart with quantity management.
+- Integrated SQLite database.
 
----
+Technologies: Python | Django | HTML | CSS | JavaScript | SQLite
 
-📌 Featured Projects
+🤖 02. Explainable Depression Detection from Text
 
-🛒 E-Commerce Web Application
+- Developed an NLP-based Flask application.
+- Applied text preprocessing and TF-IDF.
+- Trained multiple machine learning classifiers.
+- Integrated a user-friendly web interface.
 
-- Developed a full-stack shopping application using Django.
-- Implemented product listing, search and shopping cart.
-- Integrated SQLite database and cart persistence.
-
-Technologies: Python, Django, HTML, CSS, JavaScript, SQLite
-
-🤖 Explainable Depression Detection from Text
-
-- Developed a Flask-based NLP application.
-- Applied TF-IDF and Bag-of-Words feature extraction.
-- Compared multiple machine learning algorithms.
-- Built a user-friendly web interface for preliminary text classification.
-
-Technologies: Python, Flask, NLP, Scikit-learn, TF-IDF
+Technologies: Python | Flask | NLP | Scikit-learn | Machine Learning
 
 ---
 
-💼 Internship
+💼 INTERNSHIP
 
-Full Stack Development Intern | FutureInterns
+Full Stack Development Intern – FutureInterns
 
-February 2026 – March 2026
+📅 February 2026 – March 2026
 
 - Developed responsive web interfaces.
-- Integrated frontend components with backend services.
-- Worked with database connectivity and application features.
-- Used Git and GitHub for version control.
+- Integrated frontend and backend services.
+- Implemented database connectivity.
+- Worked with Git and GitHub.
 
 ---
 
-📊 GitHub Statistics
+📊 GITHUB STATISTICS
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
+<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambidinaveen&show_icons=true&theme=tokyonight&hide_border=true"/><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambidinaveen&layout=compact&theme=tokyonight&hide_border=true"/><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ambidinaveen&theme=tokyonight&hide_border=true"/></div>---
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+🎓 EDUCATION
 
----
-
-🎓 Education
-
-B.Tech – Information Technology
+Bachelor of Technology – Information Technology
 
 TKR College of Engineering and Technology
+
 2023 – 2027 | CGPA: 6.89
 
 ---
 
-📫 Let's Connect
+📜 CERTIFICATIONS
 
-- LinkedIn: https://www.linkedin.com/in/naveen-ambidi-8199173a0
-- Email: naveenambidi@gmail.com
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
+- Full Stack Development – NoviTech R&D
+- Data Analytics Job Simulation – Deloitte (Forage)
+- GenAI Powered Data Analytics Job Simulation
 
-⭐ Thanks for visiting my GitHub profile!
+---
+
+🤝 CONNECT WITH ME
+
+<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/naveen-ambidi-8199173a0)
+
+""GitHub" (https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)" (https://github.com/ambidinaveen)
+
+""Email" (https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)" (mailto:naveenambidi@gmail.com)
+
+💫 KEEP LEARNING | KEEP BUILDING | KEEP GROWING
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=120&section=footer"/></div>
