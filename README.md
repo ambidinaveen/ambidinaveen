@@ -1,8 +1,17 @@
 <div align="center">
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0575E6,100:00F2FE&height=220&section=header&text=AMBIDI%20NAVEEN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER&descAlignY=60&descSize=16" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=180&section=header&text=AMBIDI%20NAVEEN&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- Your content here -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:0575E6,100:020024&height=120&section=footer&reversal=true" width="100%"/>
 
 
 # 👋 Hello, I'm Naveen!
